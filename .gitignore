@@ -1,0 +1,9 @@
+/target/
+/.project
+/.classpath
+/.settings/
+/cookies/
+/vcode.jpg
+/config.ini
+/logs/
+/pages/
