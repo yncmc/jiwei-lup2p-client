@@ -14,14 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>nexus</id>
-            <name>Team Nexus Public Repository</name>
-            <url>http://192.168.0.227:8081/nexus/content/groups/public</url>
-        </repository>
-    </repositories>
-
     <build>
         <finalName>lup2p-client</finalName>
         <plugins>
